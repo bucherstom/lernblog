@@ -1,13 +1,13 @@
 +++
 title = "Über mich"
 draft = false
-description = "Seite über mich"
 image = ""
+description = "Seite über mich"
 +++
 ![](/img/default-author.png)
 
-## Vorname Nachname
+## Thomas Bucher
 
 info@lernblog.ch
 
-Beschreibung, wer ich bin...
+Ich bin lernbegeistert, familienvater, hausumbauer, steuererklärungsausfüller und vieles mehr
