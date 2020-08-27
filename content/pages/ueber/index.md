@@ -8,6 +8,6 @@ description = "Seite über mich"
 
 ## Thomas Bucher
 
-info@lernblog.ch
+thomas@co-wing.ch
 
 Ich bin lernbegeistert, familienvater, hausumbauer, steuererklärungsausfüller und vieles mehr
