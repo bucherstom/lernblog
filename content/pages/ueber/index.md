@@ -1,6 +1,6 @@
 +++
 title = "Über mich"
-draft = true
+draft = false
 image = ""
 description = "Seite über mich"
 +++
@@ -10,4 +10,4 @@ description = "Seite über mich"
 
 thomas@co-wing.ch
 
-Ich bin lernbegeistert, familienvater, hausumbauer, steuererklärungsausfüller und vieles mehr
+Ich bin familienvater, lernbegeistert, hausumbauer, steuererklärungsausfüller und vieles mehr
