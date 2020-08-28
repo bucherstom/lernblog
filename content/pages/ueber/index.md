@@ -1,7 +1,7 @@
 +++
 title = "Über mich"
 draft = false
-image = ""
+image = "tombucher-1-1-.jpg"
 description = "Seite über mich"
 +++
 ![](/img/default-author.png)
