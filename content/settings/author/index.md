@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "Vorname Nachname"
+name = "Thomas Bucher"
 image = ""
-email = ""
+email = "mail@thomasbucher.blog"
 +++
