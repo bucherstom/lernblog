@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Thomas Bucher"
-image = "/media/tombucher-1-1-.jpg"
+image = "/media/tombucher-quadratisch.jpg"
 email = "mail@thomasbucher.blog"
 +++
