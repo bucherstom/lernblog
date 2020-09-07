@@ -4,10 +4,10 @@ draft = false
 image = "tombucher-1-1-.jpg"
 description = "Seite über mich"
 +++
-![](/img/default-author.png)
+![](tombucher-1-1-.jpg)
 
 ## Thomas Bucher
 
-thomas@co-wing.ch
+[thomas@co-wing.ch](mailto:thomas@co-wing.ch)
 
 Ich bin familienvater, lernbegeistert, hausumbauer, steuererklärungsausfüller und vieles mehr
