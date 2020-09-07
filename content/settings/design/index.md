@@ -1,8 +1,7 @@
 +++
 headless = true
-icon = ""
-logo = ""
+icon = "/media/tombucher-quadratisch.jpg"
+logo = "/media/tombucher-quadratisch.jpg"
 image = ""
-color = ""
+color = "#fcd703"
 +++
-
