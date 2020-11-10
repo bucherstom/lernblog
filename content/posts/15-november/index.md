@@ -6,15 +6,11 @@ pinned = false
 tags = ["steuererklärungsausfüller"]
 image = "15.11..png"
 +++
-# **15. November**
-
-
-
 Liebes Tagebuch…
 
 Nächsten Sonntag ist der 15. November. Ich entwickle gerade eine starke Ambivalenz zu diesem Datum… 
 
-> *Ambivalenz bezeichnet einen Zustand psychischer Zerrissenheit. [](https://de.wikipedia.org/wiki/Zerrissenheit)Dabei bestehen in einer Person sich widersprechende Wünsche, Gefühle und Gedanken gleichzeitig nebeneinander und führen zu inneren Spannungen. Sagt Wikipedia*
+> *Ambivalenz bezeichnet einen Zustand psychischer Zerrissenheit.* [](https://de.wikipedia.org/wiki/Zerrissenheit)*Dabei bestehen in einer Person sich widersprechende Wünsche, Gefühle und Gedanken gleichzeitig nebeneinander und führen zu inneren Spannungen. Sagt Wikipedia*
 
 Bis dahin lässt sich im Kanton Bern die Frist zur Einreichung der Steuererklärungen für natürliche Personen verlängern (bis 15.09 kostenlos; bis 15.11 kostet es CHF 10.00). Danach ist keine Fristerstreckung mehr möglich und es folgt eine kostenpflichtige Mahnung (CHF 60.00) in den nächsten Tagen. Danach hat man nochmals 30 Tage Zeit. Ist man noch später, kann ich für nichts mehr garantieren. Anyway.
 
