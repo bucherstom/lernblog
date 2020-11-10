@@ -6,6 +6,8 @@ pinned = false
 tags = ["steuererklärungsausfüller"]
 image = "15.11..png"
 +++
+![](15.11..png)
+
 Liebes Tagebuch…
 
 Nächsten Sonntag ist der 15. November. Ich entwickle gerade eine starke Ambivalenz zu diesem Datum… 
