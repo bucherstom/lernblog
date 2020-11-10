@@ -5,6 +5,7 @@ draft = false
 pinned = false
 tags = ["steuererklärungsausfüller"]
 image = "15.11..png"
+description = "Nächsten Sonntag ist der 15. November. Ich entwickle gerade eine starke Ambivalenz zu diesem Datum…"
 +++
 ![](15.11..png)
 
