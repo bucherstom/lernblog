@@ -3,8 +3,9 @@ title = "Vom Sinn der Noten"
 date = "2020-10-21"
 draft = false
 pinned = false
+tags = ["schuleundso"]
 image = "schulzeugnis.jpg"
-description = "#schuleundso"
+description = "Wenn man zum Mittagessen über Noten philosophiert..."
 footnotes = "Quelle Bild: picture alliance/Arco Images/Schoening Berlin"
 +++
 ![](schulzeugnis.jpg)
