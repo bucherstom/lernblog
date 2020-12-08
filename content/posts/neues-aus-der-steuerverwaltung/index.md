@@ -1,7 +1,7 @@
 +++
 title = "Neues aus der Steuerverwaltung"
 date = "2020-12-08"
-draft = false
+draft = true
 pinned = false
 tags = ["steuererklärungsausfüller"]
 image = "pv.jpg"
