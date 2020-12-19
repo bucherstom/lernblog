@@ -3,6 +3,7 @@ title = "Lernen mit der Schweizer Armee"
 date = "2020-12-19"
 draft = false
 pinned = false
+tags = ["lernbegeistert"]
 image = "20201218_084600-1-.jpg"
 description = "Ueli Maurer hatte recht. Wir haben die beste Armee der Welt..."
 +++
