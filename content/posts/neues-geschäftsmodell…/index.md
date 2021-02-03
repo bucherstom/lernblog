@@ -1,5 +1,5 @@
 +++
-title = "Neues Geschäftsmodel…?"
+title = "Neues Geschäftsmodell…?"
 date = "2021-02-03"
 draft = false
 pinned = false
