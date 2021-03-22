@@ -3,6 +3,7 @@ title = "Briefmarken auf einfach"
 date = "2021-03-22"
 draft = false
 pinned = false
+tags = ["lernbegeistert"]
 image = "marke2_1-1-.jpeg"
 description = "Aktuell bin ich beruflich ziemlich eingespannt. Jede kleine Verbesserung meiner Prozesse daher sehr willkommen. Ich freue mich, hält auch der hektische Beufsalltag kleine Lernmomente bereit:"
 +++
